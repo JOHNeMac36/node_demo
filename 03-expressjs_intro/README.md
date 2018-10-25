@@ -1,5 +1,5 @@
 # expressjs_intro
-##This is an intro into using expressjs to create an http server
+## This is an intro into using expressjs to create an http server
 
 ### Depenencies
 Nodejs and expressjs. Since expressjs is not a built-in Ndejs module, you have to init your directory as a Nodejs project and then install expressjs into your project
